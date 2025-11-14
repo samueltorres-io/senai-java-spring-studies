@@ -10,4 +10,9 @@ public class Matricula {
         this.curso = curso;
     };
 
+    @Override
+    public String toString() {
+        return aluno.toString() + "\n" + curso.toString();
+    }
+
 }
