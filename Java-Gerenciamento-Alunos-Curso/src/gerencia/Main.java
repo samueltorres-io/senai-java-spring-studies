@@ -2,7 +2,7 @@ package src.gerencia;
 
 public class Main {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         Aluno aluno1 = new Aluno("Joao Silva", 20);
         Curso curso1 = new Curso("Java Basico", 40.0);
