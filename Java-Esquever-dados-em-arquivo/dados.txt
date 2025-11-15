@@ -1,0 +1,11 @@
+Nome: Samuel
+Idade: 21
+Email: 
+Nome: Samuel
+Idade: 21
+Email: teste@teste.com
+Nome: Samuel
+Idade: 21
+Email: t@t.com
+Data: Sat Nov 15 14:29:55 BRT 2025
+-----------------------
